@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tác giả
-permalink: /about/
+permalink: /tac-gia/
 published: true
 ---
 
