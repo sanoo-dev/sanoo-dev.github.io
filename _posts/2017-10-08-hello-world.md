@@ -1,13 +1,8 @@
 ---
 layout: post
-title: You're up and running!
-tags:
-  - test
-  - tags
+title: Bài post đầu tiên!
+tags: [test,tag]
+- permalink: bai-viet-hay/bai-post-dau-tien/
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Kiko Now repository](https://github.com/aweekj/kiko-now) on GitHub.
+Xin chào các bạn, đây là bài post đầu tiên của mình.
