@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Tác giả
 permalink: /about/
 published: true
 ---
