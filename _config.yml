@@ -27,7 +27,7 @@ navigation:
   - name: Bài viết hay
     url: /bai-viet-hay
   - name: Tác giả
-   	url: /tac-gia
+    url: /tac-gia
 
 # Pagination
 paginate: 5
